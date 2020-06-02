@@ -1,0 +1,23 @@
+:local(.header) {
+  background: white;
+  border-bottom: solid 1px rgb(144, 197, 255);
+  height: 50px;
+  display: flex;
+  justify-content: flex-end;
+  :local(.img) {
+    border-radius: 1000px;
+    background: rgb(86, 168, 255);
+    border: solid 1px rgb(144, 197, 255);
+    height: 40px;
+    width: 40px;
+    margin: 5px;
+    overflow: hidden;
+    :local(img) {
+      height: 100%;
+    };
+  }
+  :local(.data){
+    font-size: x-small;
+    text-align: right;
+  }
+}

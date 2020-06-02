@@ -1,0 +1,10 @@
+:local(.sidebar){
+  background: rgb(144, 197, 255);
+  margin: 10px;
+  border: solid 1px white;
+  :local(.item){
+    display: flex;
+    justify-items: flex-start;
+    margin: 5px;
+  }
+}

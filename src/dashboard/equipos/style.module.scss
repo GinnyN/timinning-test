@@ -1,0 +1,15 @@
+:local(.status) {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  :local(.statusDevice) {
+    width: 200px;
+    height: 200px;
+    overflow: auto;
+    background: rgb(31, 42, 53);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    margin: 3px;
+  }
+}

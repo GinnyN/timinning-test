@@ -1,0 +1,24 @@
+:local(body) {
+  background-color: #E2E2E2;
+}
+:local(.login) {
+  height:100%;
+  width:100%;
+  margin:0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+:local(.login .form) {
+  margin-top: 100px;
+  padding: 20px;
+  width: 300px;
+  background: white;
+  border: solid 1px rgb(144, 197, 255);
+  text-align: left;
+}
+
+:local(.form h1) {
+  font-size: 30px;
+}
