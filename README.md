@@ -1,3 +1,9 @@
+# Prueba Técnica para TIMinning
+
+Para ver la prueba online: https://timinning-test.web.app/
+
+## Readme original
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
